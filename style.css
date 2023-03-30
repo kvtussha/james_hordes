@@ -1,0 +1,12 @@
+body {
+    background-image: url("img/background2.jpg");
+}
+
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    height: 10px;
+    width: 1400px;
+}
